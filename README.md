@@ -16,3 +16,5 @@ Please note that this GitHub repo is not affiliated with NVIDIA.
 
 # Credits :
 Louis Gallet - 2020
+
+Made with ❤ by Louis
