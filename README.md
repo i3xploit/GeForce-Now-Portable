@@ -2,7 +2,7 @@ Here's my updated fork of Louis Gallet's Portable GeForce NOW.
 I don't really know how to use GitHub but I'm trying my best over here.
 
 
-
+I think you gotta unzip the thingy you download and open the geforce exe in the CEF folder.
 
 
 # Disclaimer
